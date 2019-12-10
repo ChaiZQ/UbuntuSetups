@@ -1,0 +1,3 @@
+sudo add-apt-repository ppa:zarquon42/meshlab
+sudo apt-get update
+sudo apt-get install meshlab
